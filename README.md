@@ -23,7 +23,7 @@ Welcome to Adithi Pai's GitHub
 ![SQL](https://img.shields.io/badge/-SQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
@@ -33,3 +33,9 @@ Welcome to Adithi Pai's GitHub
 - Building [your current project]
 - Learning [what you're learning]
 - Exploring [your interests]
+
+---
+
+## 📈 GitHub Stats
+
+![Adithi Pai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarpai&show_icons=true&theme=default)
