@@ -1,11 +1,11 @@
 # Hi there 👋
 
-Welcome to Adithi's GitHub
+Welcome to Adithi Pai's GitHub
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarpai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/(https://www.linkedin.com/in/adithipai/))
-[![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithi%20Pai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithipai/)
+[![Gmail](https://img.shields.io/badge/Gmail-adithi.pai01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adithi.pai01@gmail.com)
 
 ---
 
@@ -33,9 +33,3 @@ Welcome to Adithi's GitHub
 - Building [your current project]
 - Learning [what you're learning]
 - Exploring [your interests]
-
----
-
-## 📈 GitHub Stats
-
-![Aarpai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarpai&show_icons=true&theme=default)
