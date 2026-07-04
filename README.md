@@ -4,7 +4,7 @@ Welcome to Adithi's GitHub
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarpai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/adithipai/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarpai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/(https://www.linkedin.com/in/adithipai/))
 [![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
