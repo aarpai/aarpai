@@ -11,10 +11,9 @@ Welcome to Adithi Pai's GitHub
 
 ## 👩‍💼 About Me
 
-- [Your role] with experience in [your fields]
-- Skilled in **Python, SQL, [whatever else]**
-- Passionate about [what you care about]
-
+- Seasoned Financial Engineer with experience in MedTech & Tech
+- I have spent the last 8 years in financial analytics, and got obsessed with cleaning and formating data. Now using Python and leveraging AI, I build automated dashboards so you can spend time on Strategic thinking.
+- Volunteer on the Board of Rising Stars FEI Silicon Valley Chapter
 ---
 
 ## ⚙️ Tech Stack
@@ -34,8 +33,5 @@ Welcome to Adithi Pai's GitHub
 - Learning [what you're learning]
 - Exploring [your interests]
 
+
 ---
-
-## 📈 GitHub Stats
-
-![Adithi Pai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarpai&show_icons=true&theme=default)
