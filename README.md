@@ -14,6 +14,7 @@ Welcome to Adithi Pai's GitHub
 - Seasoned Financial Engineer with experience in MedTech & Tech
 - I have spent the last 8 years in financial analytics, and got obsessed with cleaning and formating data. Now using Python and leveraging AI, I build automated dashboards so you can spend time on Strategic thinking.
 - Volunteer on the Board of Rising Stars FEI Silicon Valley Chapter
+- A Chai enthusiast
 ---
 
 ## ⚙️ Tech Stack
@@ -29,9 +30,6 @@ Welcome to Adithi Pai's GitHub
 
 ## 📊 What I'm Working On
 
-- Building [your current project]
-- Learning [what you're learning]
-- Exploring [your interests]
-
+- Building meaningful infrastructure to bridge Finance and Tech
 
 ---
